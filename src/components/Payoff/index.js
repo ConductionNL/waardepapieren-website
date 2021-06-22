@@ -8,7 +8,7 @@ const Payoff = () => (
     <StyledIntro>
       <StyledTextContainer>
         <StyledHeading className="primary-colors">Waardenpapieren</StyledHeading>
-        <StyledParagraph className="primary-colors">Een digitale gemeente gebouwd op open source commonground componenten</StyledParagraph>
+        <StyledParagraph className="primary-colors">Het veilig, vertrouwd en snel verstrekken van digitale uittreksels en bewijsstukken</StyledParagraph>
         <StyledSubParagraph className="primary-colors">Demodam is een fictieve gemeentewebsite die laat zien welke herbruikbare open source producten en diensten er beschikbaar zijn voor gemeenten.</StyledSubParagraph>
         <StyledSubParagraph className="primary-colors"><a className="primary-colors" href="https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website">Lees hier meer over Demodam</a></StyledSubParagraph>
       </StyledTextContainer>
