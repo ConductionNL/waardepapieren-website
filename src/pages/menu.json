@@ -7,7 +7,7 @@
     },
     {
       "title": "Installatie",
-      "link": "/join",
+      "link": "/installation",
       "partiallyActive": true
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "title": "Installation",
-      "link": "/en/join",
+      "link": "/en/installation",
       "partiallyActive": true
     },
     {

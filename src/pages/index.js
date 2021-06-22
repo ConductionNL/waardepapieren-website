@@ -25,7 +25,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 
 const IndexPage = ({ location }) => (
   <Layout>
-    <SEO title="Wardenpapieren" />
+    <SEO title="Waardepapieren" />
     <Background backgroundColor="#00377A">
       <Container>
         <Navigation backgroundColor="#00377A" as="nav" location={location} />
@@ -40,10 +40,10 @@ const IndexPage = ({ location }) => (
       </Container>
     </Background>
     <Container>
-      <Section id="over-demodam">
+      <Section id="over-waardepapieren">
         <Flex>
           <Box>
-              <h2 className="secondary-colors">Over Waardenpapieren</h2>
+              <h2 className="secondary-colors">Over Waardepapieren</h2>
               <p className="secondary-colors">Soms moet je aantonen dat je in een gemeente woont. Bijvoorbeeld als een woningcorporatie daarom vraagt. Je gaat dan naar de gemeente om een uittreksel aan te vragen. De gemeentemedewerker zoekt jouw gegevens op in het burgerzakensysteem. Print een uittreksel. En zet daar een stempel op. Een uittreksel kan vaak ook online aangevraagd worden. Het duurt dan een aantal dagen voordat je het uittreksel thuis hebt. In beide gevallen is het proces arbeidsintensief, en klantonvriendelijk. Ook zijn de kosten voor zowel de gemeente als inwoner hoog.
             NB: Deze website is in aanbouw.</p>
           </Box>

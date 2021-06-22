@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Demodam`,
+    title: `Waardepapieren`,
     description: `Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities. This website hosts the community governance and demodam information.`,
-    author: `The Demodam Community`,
-    repositoryUrl: `https://github.com/demodam/demodam.org/`,
+    author: `Dimpact`,
+    repositoryUrl: `https://github.com/conductionNl/waardepapieren-website/`,
     slackUrl: `https://samenorganiseren.slack.com/archives/C01S2QM81V4`,
     languages: ['en' ,'nl'],
     defaultLanguage: 'nl'
@@ -39,8 +39,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Demodam`,
-        short_name: `demodam`,
+        name: `Waardepapieren`,
+        short_name: `waardepapieren`,
         start_url: `/`,
         display: `standalone`,
         icon: `src/images/demodam_logo.svg`,
