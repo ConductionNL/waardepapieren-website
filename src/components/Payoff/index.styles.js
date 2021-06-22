@@ -17,6 +17,7 @@ export const StyledTextContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  background-color: #00377A;
 `
 
 export const StyledIntro = styled.div`
