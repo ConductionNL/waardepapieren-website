@@ -121,11 +121,18 @@ const IndexPage = ({ location }) => (
     </Background>
     <Container>
       <Timeline>
+        <Timeline.Container align="right">
+           <Timeline.Content>
+                <Span fontSize="0.9rem">Juli 2021</Span>
+                <Heading as="h3" fontSize="1.5rem">Livegang Waardepapieren</Heading>
+                <p>Launch of Waardepapieren</p>
+                </Timeline.Content>
+          </Timeline.Container>
         <Timeline.Container align="left">
           <Timeline.Content>
-            <Span fontSize="0.9rem">June 2021</Span>
-            <Heading as="h3" fontSize="1.5rem">Kick-off Demodam</Heading>
-            <p>Launch of Demodam</p>
+            <Span fontSize="0.9rem">Nov 2020</Span>
+            <Heading as="h3" fontSize="1.5rem">Kick-off Waardepapieren</Heading>
+            <p>Start of Waardepapieren</p>
           </Timeline.Content>
         </Timeline.Container>
       </Timeline>

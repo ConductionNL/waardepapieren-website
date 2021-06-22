@@ -15,7 +15,7 @@ export default function Template({ data, location }) {
     <Layout>
       <SEO title={post.frontmatter.title} />
       <Background backgroundColor="#00377A">
-      <nav style="background-color: 00377A">
+      <nav>
         <Container>
           <Navigation location={location} />
         </Container>
