@@ -16,8 +16,7 @@ export const StyledContainer = styled.div`
 export const StyledTextContainer = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  background-color: #00377A;
+  justify-content: center;  
 `
 
 export const StyledIntro = styled.div`
@@ -32,20 +31,20 @@ export const StyledImage = styled.div`
 `
 
 export const StyledHeading = styled.h1`
-  color: #000000;
+  color: #ffffff;
   font-size: 44px;
   font-weight: ${(p) => p.theme.tokens.fontWeightBold};
 `
 
 export const StyledParagraph = styled.p`
-  color: #000000;
+  color: #ffffff;
   font-size: 24px;
   font-style: italic;
   line-height: 30px;
 `
 
 export const StyledSubParagraph = styled.p`
-  color: #000000;
+  color: #ffffff;
   font-size: 18px;
   line-height: 30px;
 

@@ -26,7 +26,7 @@ import integrationImage from '../images/undraw_hologram_fjwp.svg'
 const IndexPage = ({ location }) => (
   <Layout>
     <SEO title="Wardenpapieren" />
-    <Background className="primary-colors">
+    <Background backgroundColor="#00377A">
       <Container>
         <Navigation backgroundColor="#00377A" as="nav" location={location} />
         <Section>
@@ -34,7 +34,7 @@ const IndexPage = ({ location }) => (
         </Section>
       </Container>
     </Background>
-    <Background className={"tertiary-colors"}>
+    <Background backgroundColor="#fa4494">
       <Container>
         <Logos />
       </Container>
