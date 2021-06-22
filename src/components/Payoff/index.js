@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading className="primary-colors">Waardenpapieren</StyledHeading>
+        <StyledHeading className="primary-colors">Waardepapieren</StyledHeading>
         <StyledParagraph className="primary-colors">Het veilig, vertrouwd en snel verstrekken van digitale uittreksels en bewijsstukken</StyledParagraph>
-        <StyledSubParagraph className="primary-colors">Meer tekst is een goed idee.</StyledSubParagraph>
-        <StyledSubParagraph className="primary-colors"><a className="primary-colors" href="https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website">Lees hier meer over Demodam</a></StyledSubParagraph>
+        <StyledSubParagraph className="primary-colors">Waardepapieren is onderdeel van commonground.</StyledSubParagraph>
+        <StyledSubParagraph className="primary-colors"><a className="primary-colors" href="https://commonground.nl/">Lees hier meer over Commonground</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>

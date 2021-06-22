@@ -7,10 +7,10 @@ const Payoff = () => (
   <StyledContainer>
     <StyledIntro>
       <StyledTextContainer>
-        <StyledHeading>Demodam</StyledHeading>
-        <StyledParagraph>A digital municipality built on open source commonground components</StyledParagraph>
-        <StyledSubParagraph>Demodam is a fictitious municipal website that shows which reusable open source products and services are available for municipalities.</StyledSubParagraph>
-        <StyledSubParagraph><a href="https://commonground.nl/blog/view/6c422c0a-e541-41c8-8261-9c8bc90f4d87/doe-mee-met-demodam-de-common-ground-showcase-website">Read more about Demo dam (dutch)</a></StyledSubParagraph>
+        <StyledHeading className="primary-colors">Extracts</StyledHeading>
+        <StyledParagraph className="primary-colors">The safe, reliable and fast provision of digital extracts and evidence</StyledParagraph>
+        <StyledSubParagraph className="primary-colors">More text would be a good idea.</StyledSubParagraph>
+        <StyledSubParagraph className="primary-colors"><a className="primary-colors" href="https://commonground.nl/">Read more about commonground</a></StyledSubParagraph>
       </StyledTextContainer>
     </StyledIntro>
     <StyledImage>
