@@ -2,12 +2,17 @@
   "nl": [
     {
       "title": "Demo",
-      "link": "/news/",
+      "link": "https://waardepapieren.demodam.nl",
       "partiallyActive": false
     },
     {
       "title": "Installatie",
       "link": "/installation",
+      "partiallyActive": true
+    },
+    {
+      "title": "Integratie / API",
+      "link": "/integration",
       "partiallyActive": true
     },
     {
@@ -19,8 +24,13 @@
   "en": [
     {
     "title": "Demo",
-    "link": "/en/news/",
+    "link": "https://waardepapieren.demodam.nl",
     "partiallyActive": false
+    },
+    {
+      "title": "Installation / API",
+      "link": "/en/integration",
+      "partiallyActive": true
     },
     {
       "title": "Installation",
