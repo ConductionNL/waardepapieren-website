@@ -2,7 +2,7 @@
   "nl": [
     {
       "title": "Demo",
-      "link": "https://waardepapieren.demodam.nl",
+      "link": "/demo",
       "partiallyActive": false
     },
     {
@@ -24,7 +24,7 @@
   "en": [
     {
     "title": "Demo",
-    "link": "https://waardepapieren.demodam.nl",
+    "link": "/en/demo",
     "partiallyActive": false
     },
     {
