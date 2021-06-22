@@ -27,8 +27,16 @@ Onderstaande een voorbeeld van de ``JSON`` ``RESPONSE``
 ```
 
 ## Genereren van een waardepapier
-Aan de hand van bovenstaande gegeven kunt u vervolgens een waardepapier aanvragen, dit dient te gebeuren
+Aan de hand van bovenstaande gegeven kunt u vervolgens een waardepapier aanvragen, dit dient te gebeuren door het maken van een POST request op het /certificate endpoint. Waarbij u de applicant, type en organizatie die het 
+                                                                                                        
+```JSON
+{
+    "applicant":"999999928",
+    "type": "akte_van_geboorte",
+    "organization": "001516814"
+}
+```
 
 ## Opvragen van reeds afgegeven waardepapieren
-Indien uw host teven het waardepapieren register heeft geimplementeerd kun u ook in het verleden uitgegeven waardepapieren voor een aanvraager ophalen. Dit kunt u doen door middel van het 
+Indien uw host teven het waardepapieren register heeft geimplementeerd kun u ook in het verleden uitgegeven waardepapieren voor een aanvraager ophalen.
 
